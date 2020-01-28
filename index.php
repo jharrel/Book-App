@@ -1,1 +1,1 @@
-<?php include_once("booklist.html"); ?>
+<?php include_once("home.html"); ?>
